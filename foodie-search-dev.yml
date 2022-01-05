@@ -1,2 +1,4 @@
+info:
+  profile: dev
 name: foodie-search
-  profiles: 'dev'
+ 
